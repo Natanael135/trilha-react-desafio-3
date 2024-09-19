@@ -26,10 +26,10 @@ const Feed = () => {
             </Column>
             <Column flex={1}>
               <TitleHighlight> # RANKING 5 TOP DA SEMANA </TitleHighlight>
-                <UserInfo nome="Pablo Henrique" image="https://avatars.githubusercontent.com/u/45184516?v=" percentual={25}/>
-                <UserInfo nome="Pablo Henrique" image="https://avatars.githubusercontent.com/u/45184516?v=" percentual={65}/>
-                <UserInfo nome="Pablo Henrique" image="https://avatars.githubusercontent.com/u/45184516?v=" percentual={45}/>
-                <UserInfo nome="Pablo Henrique" image="https://avatars.githubusercontent.com/u/45184516?v=" percentual={72}/>
+                <UserInfo nome="Natanael Melo" image="https://avatars.githubusercontent.com/u/109748470?s=400&u=0404c8f169e445cbb0c973cf2d23f40233d65cdd&v=4" percentual={25}/>
+                <UserInfo nome="Natanael Melo" image="https://avatars.githubusercontent.com/u/109748470?s=400&u=0404c8f169e445cbb0c973cf2d23f40233d65cdd&v=4" percentual={65}/>
+                <UserInfo nome="Natanael Melo" image="https://avatars.githubusercontent.com/u/109748470?s=400&u=0404c8f169e445cbb0c973cf2d23f40233d65cdd&v=4" percentual={45}/>
+                <UserInfo nome="Natanael Melo" image="https://avatars.githubusercontent.com/u/109748470?s=400&u=0404c8f169e445cbb0c973cf2d23f40233d65cdd&v=4" percentual={72}/>
             </Column>
         </Container>
     </>
